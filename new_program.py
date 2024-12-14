@@ -1,1 +1,2 @@
-print("My first Git program!!!")
+print('author')
+print("Hello, Python")
